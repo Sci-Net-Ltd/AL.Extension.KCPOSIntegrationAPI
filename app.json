@@ -1,0 +1,19 @@
+{
+  "id": "f7400ee4-3515-44ff-bdd9-57a19c6e4c69",
+  "name": "KCPOS Integration API",
+  "publisher": "Kamarin Computers Ltd",
+  "description": "API end points for intergation with KCPOS",
+  "version": "1.0.12.1",
+  "runtime": "7.0",
+  "showMyCode": true,
+  "target": "Cloud",
+ "platform": "22.0.0.0",
+  "application": "21.0.0.0",
+  "contextSensitiveHelpUrl": "https://KCPOS-Integration-API.com/help/",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
